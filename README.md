@@ -23,7 +23,7 @@ This project used python 3 as well as the following libraries:
 Understanding pricing trends by asking the following questions:
 
 1. Is there a pattern of seasonality reflected in the prices?
-2. Are prices neighbourhood dependant?
+2. Are prices neighbourhood dependent?
 3. Can we see differences in price in relation to property type?
 
 ## **File Descriptions**
